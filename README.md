@@ -264,7 +264,7 @@ As a Security Engineer, these tools are for authorized penetration testing, rese
 - [ripgrep](https://github.com/BurntSushi/ripgrep) — Fast command-line search tool.
 - [shields](https://github.com/badges/shields) — Quality metadata badges for open source projects.
 - [IT Tools](https://github.com/CorentinTh/it-tools.git) — Collection of handy online tools for developers, with great UX.
-- [WebToolsHub](https://webtoolshub.online) — Free, privacy-first online developer tools suite. Runs entirely client-side with no signup required. Includes JWT decoder, JSON to TypeScript converter, CSS to Tailwind converter, Regex tester, and Bcrypt hash generator.
+- [WebToolsHub](https://webtoolshub.online) — Free, privacy-first online developer tools suite. Runs entirely client-side      with no signup required. Includes JWT decoder, JSON to TypeScript converter, CSS to Tailwind converter, Regex tester, and    Bcrypt hash generator.
 
 ---
 
